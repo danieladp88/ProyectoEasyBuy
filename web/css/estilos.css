@@ -1,0 +1,23 @@
+img{
+    transition:transform 1s;
+}
+img:hover{
+    transform : scale(1.5);
+}
+.btn-danger{
+    margin-left: 15px;
+    transition: transform 0.5s;
+}
+.btn2{    
+    transition: transform 0.5s;
+}
+.btn:hover{
+    transform: scale(1.2);
+}
+
+.titulo{font-family: magneto; font-size: 25px}
+
+#tituloCo{font-family: magneto; font-size: 35px}
+
+.table{color:white}
+.R{font-family: magneto; font-size: 14px}

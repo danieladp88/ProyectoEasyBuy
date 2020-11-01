@@ -1,0 +1,22 @@
+img{
+    transition:transform 1s;
+}
+img:hover{
+    transform : scale(1.5);
+}
+
+.btn2{    
+    transition: transform 0.5s;
+}
+.btn2:hover{
+    transform: scale(1.2);
+}
+
+.titulo{font-family: magneto; font-size: 25px}
+#tituloCa{font-family: magneto; font-size: 25px}
+.fecha{font-family: magneto}
+.table{color:white}
+.generar{font-family: magneto; font-size: 20px}
+.generar2{font-family: magneto; font-size: 15px}
+.pago{font-family: magneto; font-size: 25px}
+.pago1{font-family: magneto; font-size: 15px}
